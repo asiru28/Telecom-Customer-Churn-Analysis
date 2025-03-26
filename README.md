@@ -32,6 +32,9 @@ This project explores customer churn in a telecommunications company in Californ
   1. Churn was higher among younger customers with shorter tenures.
   2. Certain cities had higher churn rates, possibly due to network reliability issues.
 
+![telecom_customer_churn](https://github.com/user-attachments/assets/3bfbcf69-75bf-411a-8eb0-bf7fe464cbd3)
+
+
 # Key Findings
 
 1. Month-to-month customers are more likely to churn compared to those on long-term contracts.
